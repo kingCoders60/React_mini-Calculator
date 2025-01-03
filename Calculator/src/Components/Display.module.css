@@ -1,0 +1,9 @@
+.display {
+    margin: 10px;
+    width: 175px;
+    font-size: 25px; /* Added 'px' */
+    border: 1px solid #ccc; /* Optional: adds a border */
+    padding: 5px; /* Optional: adds padding */
+    background-color: #b9e839; /* Optional: background color */
+    text-align: right; /* Optional: aligns text to the right */
+}
